@@ -10,9 +10,7 @@ int main(){
             count += 1;
         }
     }
-        
-    int coba = 5/2;
 
-    printf("%d", coba);
+    printf("%d", count);
 
 }
